@@ -17,12 +17,12 @@ const AddTask = () => {
     e.preventDefault();
     await addTodo({
       id: uuidv4(), /* Serve para dar um id randon */
-      text: newTaskValue
-    })
+      text: newTaskValue,
+    });
     setNewTaskValue("");
     setModalOpen(false);
     router.refresh();
-  }
+  };
 
   return (
     <div>
