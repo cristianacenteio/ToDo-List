@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some orange"
+    },
+    {
+      "id": "2",
+      "text": "help my friend to find a girl"
+    },
+    {
+      "id": "d6b13631-b55f-424e-8de0-95e8ccaf07a1",
+      "text": "go to the market"
+    },
+    {
+      "id": "b35617cb-0563-4215-b1fc-645a6233ddcf",
+      "text": "go to gym"
+    },
+    {
+      "id": "f2803fa2-1431-4d8b-982c-d7e1ac9fe5e4",
+      "text": "do homework"
+    }
+  ]
+}
