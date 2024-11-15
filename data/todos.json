@@ -1,24 +1,20 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "buy milk with some orange e mais nada"
+      "id": "1b422703-67ee-414a-86ed-30b4a8a29dc6",
+      "text": "Go to yoga classes"
     },
     {
-      "id": "2",
-      "text": "help my friend to find a girl"
+      "id": "84d60cb6-5e6b-4d36-a3fb-9cd1ac83855e",
+      "text": "Do lunch and dinner for tomorrow"
     },
     {
-      "id": "d6b13631-b55f-424e-8de0-95e8ccaf07a1",
-      "text": "go to the market"
+      "id": "86f5142b-3181-4896-a1a1-10df1f1bad57",
+      "text": "Do my master's Thesis"
     },
     {
-      "id": "b35617cb-0563-4215-b1fc-645a6233ddcf",
-      "text": "go to gym"
-    },
-    {
-      "id": "f2803fa2-1431-4d8b-982c-d7e1ac9fe5e4",
-      "text": "do homework"
+      "id": "0674a7c7-b52f-44e4-ba49-0fd7a0210853",
+      "text": "Study Next.js"
     }
   ]
 }
